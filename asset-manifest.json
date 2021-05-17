@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/my-react-app/static/js/main.2a5b056f.chunk.js",
-    "main.js.map": "/my-react-app/static/js/main.2a5b056f.chunk.js.map",
-    "runtime-main.js": "/my-react-app/static/js/runtime-main.e69f6182.js",
-    "runtime-main.js.map": "/my-react-app/static/js/runtime-main.e69f6182.js.map",
-    "static/js/2.ca96746d.chunk.js": "/my-react-app/static/js/2.ca96746d.chunk.js",
-    "static/js/2.ca96746d.chunk.js.map": "/my-react-app/static/js/2.ca96746d.chunk.js.map",
-    "static/js/3.9ecfa3a0.chunk.js": "/my-react-app/static/js/3.9ecfa3a0.chunk.js",
-    "static/js/3.9ecfa3a0.chunk.js.map": "/my-react-app/static/js/3.9ecfa3a0.chunk.js.map",
-    "index.html": "/my-react-app/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/my-react-app/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ca96746d.chunk.js.LICENSE.txt": "/my-react-app/static/js/2.ca96746d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-react-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-random-quote-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-random-quote-app/static/js/main.f871bf6f.chunk.js",
+    "main.js.map": "/react-random-quote-app/static/js/main.f871bf6f.chunk.js.map",
+    "runtime-main.js": "/react-random-quote-app/static/js/runtime-main.8b13183d.js",
+    "runtime-main.js.map": "/react-random-quote-app/static/js/runtime-main.8b13183d.js.map",
+    "static/js/2.ca96746d.chunk.js": "/react-random-quote-app/static/js/2.ca96746d.chunk.js",
+    "static/js/2.ca96746d.chunk.js.map": "/react-random-quote-app/static/js/2.ca96746d.chunk.js.map",
+    "static/js/3.9ecfa3a0.chunk.js": "/react-random-quote-app/static/js/3.9ecfa3a0.chunk.js",
+    "static/js/3.9ecfa3a0.chunk.js.map": "/react-random-quote-app/static/js/3.9ecfa3a0.chunk.js.map",
+    "index.html": "/react-random-quote-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-random-quote-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ca96746d.chunk.js.LICENSE.txt": "/react-random-quote-app/static/js/2.ca96746d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-random-quote-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e69f6182.js",
+    "static/js/runtime-main.8b13183d.js",
     "static/js/2.ca96746d.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.2a5b056f.chunk.js"
+    "static/js/main.f871bf6f.chunk.js"
   ]
 }
